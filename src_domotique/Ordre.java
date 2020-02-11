@@ -6,32 +6,36 @@ public class Ordre {
     
     
    public Ordre (String commande){
-      this.commande=commande;	
+      this.commande=commande;
+      HashMap <String,ordre>
   }
    public void receptionOrdre (String commande){
-	//les ordres vienne
-   }
+	//les ordres viennent
+ 	if(ordre.equals("on"){
+	  boolean light=true;
+        }
+	  
+	 if(ordre.equals("off"){
+	  boolean light=false;
+        }  
 	
-  public String eteindre(){
-    if(ordre.equals(on)){
-    
-  }
-  public String allumer(){
-  
-  }
-  public String eteindre(){
-    if(ordre.equals(off)){
-     
-  }
-  public String ouvrir(){
-    if(ordre.equals(open)){
-    
-  }
-   public String fermer(){
-    if(ordre.equals()){
-    
-  }
-  
+	 if(ordre.equals("ouvrir"){
+	  boolean light=true;
+        }  
+	  if(ordre.equals("fermer"){
+	  boolean light=false;
+        }  
+	  if(ordre.equals("sonnerfumee"){
+	  boolean detecteurfumee=false;
+        }  
+	 if(ordre.equals("fermer"){
+	  boolean light=false;
+        }  
+	      
+	 
+	   
+ }   
+	  
   
   
 }

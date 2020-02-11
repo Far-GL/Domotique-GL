@@ -8,9 +8,9 @@ public class Ordre {
    public Ordre (String commande){
       this.commande=commande;	
   }
-   public void receptionOrdre void (String commande){
-	
-	
+   public void receptionOrdre (String commande){
+	//les ordres vienne
+   }
 	
   public String eteindre(){
     if(ordre.equals(on)){

@@ -8,4 +8,10 @@ public class UniteCentrale {
 		this.piece=piece;
 		this.commande=commande;
 	}
-	pu
+	public String getPiece(){
+		return piece;
+	}
+	public String getCommande(){
+		return commande;
+	}
+	public 

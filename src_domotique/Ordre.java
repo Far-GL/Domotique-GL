@@ -2,7 +2,7 @@ package domotique;
 
 public class Ordre {
   private String commande;
-  private HashMap<motsclé,ordre>
+  private HashMap listeCommande;
     
     
    public Ordre (String commande){

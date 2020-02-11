@@ -5,9 +5,13 @@ public class Ordre {
   private HashMap<motsclé,ordre>
     
     
-   public void receptionOrdre void (String commande){
+   public Ordre (String commande){
       this.commande=commande;	
-	}
+  }
+   public void receptionOrdre void (String commande){
+	
+	
+	
   public String eteindre(){
     if(ordre.equals(on)){
     

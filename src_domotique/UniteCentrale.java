@@ -14,4 +14,13 @@ public class UniteCentrale {
 	public String getCommande(){
 		return commande;
 	}
-	public 
+	public setPiece(String piece){
+		this.piece;
+	}
+	public setPiece(String piece){
+		this.piece;
+	}
+	public gestionOrdres(String piece){
+		
+	}
+}

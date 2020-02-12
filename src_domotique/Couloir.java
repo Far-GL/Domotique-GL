@@ -2,8 +2,8 @@ package domotique;
 
 public class Couloir {
 	Couloir couloir;
-	boolean Lights = false;
-	boolean DetecteurFumee = false;
+	private boolean Lights = false;
+	private boolean DetecteurFumee = false;
 	public Couloir() {
 		couloir = new Couloir();
 	}

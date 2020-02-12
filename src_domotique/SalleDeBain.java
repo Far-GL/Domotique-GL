@@ -2,8 +2,8 @@ package domotique;
 
 public class SalleDeBain {
 	SalleDeBain salledebain;
-	boolean Lights = false;
-	boolean ModeBain =false;
+	private boolean Lights = false;
+	private boolean ModeBain =false;
 	int Temp = 20;
 	public SalleDeBain() {
 		salledebain = new SalleDeBain();

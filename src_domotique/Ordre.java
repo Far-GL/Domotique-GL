@@ -11,8 +11,8 @@ public class Ordre {
   }
    public void receptionOrdre (String commande){
 	//les ordres viennent
- 	if(ordre.equals("on"){
-	  boolean light=true;
+ 	if(ordre.equals("on"){ // je dois creer hashmap d'ordre et faire des conditions afin que si l'odre est d'allumer 
+	  boolean light=true; //alors on appel la methodes gestion ordre de l'unite centrale mais ds la main
         }
 	  
 	 if(ordre.equals("off"){

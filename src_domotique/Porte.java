@@ -1,7 +1,7 @@
 package domotique;
 
 public class Porte {
-	boolean verrou = true;
+	private boolean verrou = true;
 	Porte porte;
 	public Porte () {
 		porte = new Porte();

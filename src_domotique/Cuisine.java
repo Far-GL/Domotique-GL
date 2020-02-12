@@ -2,10 +2,10 @@ package domotique;
 
 public class Cuisine {
 	Cuisine cuisine;
-	boolean Hote=false;
-	boolean Oven = false;
-	boolean Fridge = false;
-	boolean Lights = false;
+	private boolean Hote=false;
+	private boolean Oven = false;
+	private boolean Fridge = false;
+	private boolean Lights = false;
 	public Cuisine() {
 		cuisine = new Cuisine();
 	}

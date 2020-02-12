@@ -1,8 +1,8 @@
 package domotique;
 
 public class Chambre {
-	boolean Lighs = false;
-	boolean TV = false;
+	private boolean Lighs = false;
+	private boolean TV = false;
 	Chambre chambre;
 	public Chambre() {
 		chambre = new Chambre();

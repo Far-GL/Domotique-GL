@@ -1,9 +1,9 @@
 package domotique;
 
 public class Entree {
-	Porte porte = new Porte();
+	Porte porte = new Porte();// je crois que ça soit ici qu'on doit creer un objet porte ou je trompe?
 	Entree entree;
-	boolean Lights;
+	private boolean Lights;
 	public Entree() {
 		entree = new Entree();
 	}
